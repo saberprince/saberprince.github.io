@@ -1,10 +1,10 @@
 title: Book
 description: A simple Jekyll theme
-url: # site url
-avatar: # path/to/avatar for index page. e.g. /assets/img/avatar.jpg
-favicon: # path/to/favicon for site. e.g. /assets/img/favicon.ico
-google_analytics: # google analytics id
-disqus_shortname: # disqus_shortname for disqus comment system
+url: http://www.saberprince.com
+avatar: saberprince.github.io/assets/img/interview.png
+favicon: saberprince.github.io/assets/img/interview.png
+google_analytics: UA-76974711-1
+disqus_shortname: saberprince
 
 # Content for about page.
 # Each paragraph will be a <p> tag which is inserted to about
