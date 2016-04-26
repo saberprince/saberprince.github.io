@@ -1,5 +1,5 @@
-title: Book
-description: A simple Jekyll theme
+title: Saberprince
+description: 面试准备小站
 url: http://www.saberprince.com
 avatar: saberprince.github.io/assets/img/interview.png
 favicon: saberprince.github.io/assets/img/SP_LOGO.jpg
@@ -19,11 +19,11 @@ about:
   - paragraph: ?link?, a simple Jekyll theme. Built by ?link?
     text_align: center
     links:
-      - name: Book
-        url: https://github.com/kkninjae/book
+      - name: SP
+        url: https://www.saberprince.com
         external: true
-      - name: Lang Liu
-        url: http://kkninjae.com/about/
+      - name: Saber Prince
+        url: http://www.saberprince.com/about/
         external: false
 
     
