@@ -16,14 +16,11 @@ disqus_shortname: saberprince
 # a new whidow will be open when link is clicked.
 #
 about:
-  - paragraph: 是的，SaberPrince 是网名，不是真名。其人是IT本科出身，毕业后却做了三年管培生。然后飞去了美帝，读了商学院，目前毕业在一家咨询公司工作。居住在美国某大学城。经历算不上离奇，还算丰富多彩。现已游历二十一个国家或地区，喜欢结交朋友。座右铭是：聊天又不会怀孕，不如跟我聊聊呗。?link?, a simple Jekyll theme. Built by ?link?
+  - paragraph: <img src="/assets/img/avatar.jpg">
     text_align: center
-    links:
-      - name: SP
-        url: https://www.saberprince.com
-        external: true
-      - name: Saber Prince
-        url: http://www.saberprince.com/about/
-        external: false
+
+  - paragraph: 是的，SaberPrince 是网名，不是真名。其人是IT本科出身，毕业后却做了三年管培生。然后飞去了美帝，读了商学院，目前毕业在一家咨询公司工作。居住在美国某大学城。经历算不上离奇，还算丰富多彩。现已游历二十一个国家或地区，喜欢结交朋友。座右铭是：聊天又不会怀孕，不如跟我聊聊呗。
+    text_align: center
+
 
     
