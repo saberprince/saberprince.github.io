@@ -512,7 +512,7 @@ img {
 
 @media (min-width: 600px) {
   .about-wrapper {
-    padding-top: 16px;  <!-- %66px% -->
+    padding-top: 66px;  <!-- %66px% -->
     width: 80%;
   }
 }
@@ -520,7 +520,7 @@ img {
 @media (min-width: 769px) {
   .about-wrapper{
     position: absolute;
-    top: 40%;
+    top: 10%;        <!-- %40% -->
     right: 0;
     left: 0;
     padding-top: 0;
