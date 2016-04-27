@@ -393,7 +393,7 @@ img {
   color: #8a8a8a;
 }
 
-.post-nav-next:after {
+.post-nav-next:before {
   content: "Previous:";
   margin-left: 14px;
   color: #8a8a8a;
