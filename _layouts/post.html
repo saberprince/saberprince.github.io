@@ -43,18 +43,19 @@ layout: default
   </div>
 
   <!-- post navigator -->
-  <div class="post-nav">
-    {% if page.previous %}
-    <a class="post-nav-previous"href="{{ page.previous.url }}">{{ page.previous.title }}</a>
+    {% if page.next %}
+    <a class="post-nav-next" href="{{ page.next.url }}">{{ page.next.title }}</a>
     {% endif %}
 
     {% if page.previous and page.next %}
     <div class="post-nav-sep"></div>
     {% endif %}
 
-    {% if page.next %}
-    <a class="post-nav-next" href="{{ page.next.url }}">{{ page.next.title }}</a>
+    <div class="post-nav">
+    {% if page.previous %}
+    <a class="post-nav-previous"href="{{ page.previous.url }}">{{ page.previous.title }}</a>
     {% endif %}
+
   </div>
 
   <!-- disqus comment system -->
