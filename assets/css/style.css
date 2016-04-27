@@ -389,13 +389,13 @@ img {
 
 .post-nav-previous:before {
   content: "Next:";
-  margin-right: 14px;
+  margin-left: 14px;
   color: #8a8a8a;
 }
 
 .post-nav-next:before {
   content: "Previous:";
-  margin-left: 14px;
+  margin-right: 14px;
   color: #8a8a8a;
 }
 
