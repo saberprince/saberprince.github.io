@@ -388,13 +388,13 @@ img {
 }
 
 .post-nav-previous:before {
-  content: "<<";
+  content: "Next:";
   margin-right: 14px;
   color: #8a8a8a;
 }
 
 .post-nav-next:after {
-  content: ">>";
+  content: "Previous:";
   margin-left: 14px;
   color: #8a8a8a;
 }
